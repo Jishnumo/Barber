@@ -46,8 +46,8 @@ nav a:hover{
 header{
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    height:100vh;
+    margin-top: 7rem;
+    height:85vh;
  }
 header p{
     max-width:400px;
