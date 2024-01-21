@@ -107,7 +107,6 @@ header p{
 .imgpart img{
     height:400px;
     width: 380px;
-    border-radius: 100%;
  }
  section h1{
     font-family: var(--main-font);
