@@ -152,7 +152,7 @@ section h4{
     justify-content: center;
     font: var(--primary-font);
     text-align: center;
-    height: 50vh;
+    height: 15vh;
 }
 .social button{
     border: 1px solid var(--main-color);
