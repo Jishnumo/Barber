@@ -1,5 +1,5 @@
 #this is a landing page 
-#hope you like it :>>
+#hope you like it :>>>>
 ![image](https://github.com/Jishnumo/Barber/assets/147910757/2bd0c175-d452-4b93-a346-5b603d8cb93a)
 ![image](https://github.com/Jishnumo/Barber/assets/147910757/af409138-b582-437f-be5d-59e94e3ee64b)
 ![image](https://github.com/Jishnumo/Barber/assets/147910757/3fd98fb8-4abd-49ca-aa87-6f5934313152)
